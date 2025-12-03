@@ -1,5 +1,8 @@
 🛍️ Forever Ecommerce — Full Project Documentation
-
+![responsive HomePage](public/screenshots/4.png)
+![Cart](public/screenshots/2.png)
+![products](public/screenshots/5.png)
+![products details](public/screenshots/7.png)
 Forever is a modern ecommerce platform built using Next.js (Pages Router) with a scalable component-driven architecture and real-time shopping experience. It includes product browsing, cart management, secure authentication, and Stripe checkout.
 
 🚀 Features
@@ -298,3 +301,4 @@ Free to use, modify and extend.
 Built with ❤️ by Berry Mundia (Godzilla)
 For business inquiries or partnership → add contact links
 
+![Checkout](public/screenshots/10.png)
